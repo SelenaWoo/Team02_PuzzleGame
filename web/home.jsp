@@ -1,3 +1,10 @@
+<%-- 
+    Document   : home
+    Created on : Jul 31, 2015, 8:43:10 PM
+    Author     : Ashlyn
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <!--
 To change this license header, choose License Headers in Project Properties.
@@ -5,7 +12,7 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
 <html>
-    
+
     <head>
         <title>Puzzle Game - Home</title>
         <meta charset="UTF-8">
@@ -15,11 +22,9 @@ and open the template in the editor.
     <body class="homepage">
         <!-- Header -->
         <jsp:include page="header.jsp" flush="true"/>
-   
-        <div id="header-wrapper">
-            
 
-                      <div id="banner">
+        <div id="header-wrapper">
+            <div id="banner">
                 <div class="container">
                     <div class="row">
                         <section class="12u">
@@ -76,3 +81,4 @@ and open the template in the editor.
             Team 02
         </div>
 </html>
+
