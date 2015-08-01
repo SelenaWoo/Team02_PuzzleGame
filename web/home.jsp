@@ -17,7 +17,7 @@ and open the template in the editor.
         <title>Puzzle Game - Home</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" type="text/css" href="styletwo.css">
+        <link rel="stylesheet" type="text/css" href="css/styletwo.css">
     </head>
     <body class="homepage">
         <!-- Header -->
@@ -76,9 +76,6 @@ and open the template in the editor.
 
         <!-- Featured Ends Here -->
 
-
-        <div id="copyright" class="container">
-            Team 02
-        </div>
+      <jsp:include page="footer.jsp" flush="true"/>
 </html>
 

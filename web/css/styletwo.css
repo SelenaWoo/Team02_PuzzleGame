@@ -23,7 +23,7 @@ body
 
 body, #skel-panels-pageWrapper
 {
-    background: #101214 url(imgweb/main-bg.png) repeat;
+    background: #101214 url(../imgweb/main-bg.png) repeat;
 }
 
 
@@ -182,7 +182,7 @@ a:hover
 
 #header-wrapper
 {
-    background: url(imgweb/bg.jpg) no-repeat center top;
+    background: url(../imgweb/bg.jpg) no-repeat center top;
     background-size: cover;
     position: relative;
 }
