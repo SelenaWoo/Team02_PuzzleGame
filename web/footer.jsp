@@ -17,7 +17,7 @@
 
     <body class="homepage">
          <div id="copyright" class="container">
-            Team 02 Java CA Assignments
+            Team 02 Java CA
         </div>
     </body>
 
