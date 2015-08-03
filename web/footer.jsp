@@ -17,7 +17,7 @@
 
     <body class="homepage">
          <div id="copyright" class="container">
-            Team 02
+            Team 02 Assignment
         </div>
     </body>
 
